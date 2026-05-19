@@ -1,1 +1,0 @@
-# G-rsel_programlama-Mobil_programla_-devi
