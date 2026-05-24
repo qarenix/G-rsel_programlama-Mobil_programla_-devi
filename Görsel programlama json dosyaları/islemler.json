@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "tip": "Gelir",
+    "aciklama": "Aylık maaş",
+    "tutar": 38500,
+    "tarih": "2026-05-01"
+  },
+  {
+    "id": 2,
+    "tip": "Gider",
+    "aciklama": "Kira ve faturalar",
+    "tutar": 18250,
+    "tarih": "2026-05-05"
+  },
+  {
+    "id": 3,
+    "tip": "Gider",
+    "aciklama": "Market ve ulasim",
+    "tutar": 7200,
+    "tarih": "2026-05-12"
+  }
+]

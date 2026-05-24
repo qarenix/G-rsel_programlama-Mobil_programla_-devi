@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "tur": "Konut",
+    "ad": "Aile Evi",
+    "detay": "3+1 daire, 120 m2, tapulu",
+    "deger": 3250000,
+    "tarih": "2026-05-23"
+  },
+  {
+    "id": 2,
+    "tur": "Elektronik",
+    "ad": "Dizustu Bilgisayar",
+    "detay": "16 GB RAM, 512 GB SSD, garantili",
+    "deger": 42000,
+    "tarih": "2026-05-23"
+  },
+  {
+    "id": 3,
+    "tur": "Araç",
+    "ad": "Binek Araç",
+    "detay": "2018 model, 92.000 km, muayenesi var",
+    "deger": 780000,
+    "tarih": "2026-05-23"
+  }
+]
